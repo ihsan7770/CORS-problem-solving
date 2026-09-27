@@ -31,6 +31,11 @@ In the Buckets section, you will see the storage bucket for your project. Click 
 Select Configuration
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/43f3306fb15e6e588a77c4e1777dc9f057f28640/CORS%20problem%20solving/7.SelectConfiguration.png)
 
+**Step 4**
+Select Cross-Origin Resource Sharing (CORS), then select Allow Cross-Origin Resource Sharing. An Add a configuration button will appear. Click on it.
+
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/57210e90d0448b63fcf63e9a2aa35d82c18b7383/CORS%20problem%20solving/8.SelectCORS.png)
+
 
 
 
