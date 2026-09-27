@@ -13,3 +13,5 @@ Make sure that the logged-in email account and the Firestore project account are
 In the Google Cloud Console, you can see the project selection area. Click on it to view the available projects.
 
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/640afeba6841e2f6a925c8e9f6edf4107264c6b0/CORS%20problem%20solving/2.ViewProject.png)
+
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/66de92f5847e03756e05d6c2c52a947f683e8492/CORS%20problem%20solving/3.SelectProject.png)
