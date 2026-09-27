@@ -18,3 +18,6 @@ Select the project from here
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/66de92f5847e03756e05d6c2c52a947f683e8492/CORS%20problem%20solving/3.SelectProject.png)
 **Step 3** 
 The console will switch to the selected project. Go to the menu, select **Cloud Storage**, and then select **Buckets**.
+
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/8298abe3f75410416b7314f25ea385ed52ac9053/CORS%20problem%20solving/4.Selected%20Project%20Console.png)
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/8298abe3f75410416b7314f25ea385ed52ac9053/CORS%20problem%20solving/5.TakeCloudeBucket.png)
