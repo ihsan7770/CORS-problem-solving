@@ -3,3 +3,5 @@ A step-by-step guide to solve CORS issues when loading Firebase Storage images i
 
 **Step 1**
 Open Google Cloud Console [Click here](https://console.cloud.google.com/welcome?_gl=1*1k3ttpn*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw_eLVBhBEEiwAeaYZfIW_6roEfZyucTVzlot4C-0q5-ve_AaT_XrxXEgCFfAjCumqXfcGURoCwtkQAvD_BwE&gclsrc=aw.ds&project=quran-academy-b27b5)
+
+![CORS Error](CORS problem solving/1.GoogleClodeConsole.png)
