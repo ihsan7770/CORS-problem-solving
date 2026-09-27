@@ -36,7 +36,9 @@ Select Cross-Origin Resource Sharing (CORS)
 
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/84a90bdf79826a51a34139945150c6a2c8bb48f5/CORS%20problem%20solving/8.SelectCORS.png)
 
+Then select Allow Cross-Origin Resource Sharing. An Add a configuration button will appear. Click on it.
 
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/be52261b4c2b67d3a927d728ef521c055ac79567/CORS%20problem%20solving/9.AddConfiguration.png)
 
 
  
