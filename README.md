@@ -52,6 +52,7 @@ In the configuration, enter `*` in the List of  **List of Allowed Origins** fi
  ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/c83e71298c9204eaade241f4b5e49e83416eb67e/CORS%20problem%20solving/11.balanceConfig.png)
 
  After saving, you can see the changes here and in Your Project .
+  ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/907b6acc57ff706637d89ca85c00d5ce707f711c/CORS%20problem%20solving/12.See%20Configured.png)
 
 
 
