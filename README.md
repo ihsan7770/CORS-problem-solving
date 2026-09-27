@@ -34,7 +34,7 @@ Select Configuration
 **Step 4**
 Select Cross-Origin Resource Sharing (CORS)
 
-![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/60542467d4b6eb96312a1850c31d13eaeba2cde3/CORS%20problem%20solving/9.AddConfiguration.png)
+![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/84a90bdf79826a51a34139945150c6a2c8bb48f5/CORS%20problem%20solving/8.SelectCORS.png)
 
 
 
