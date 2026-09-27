@@ -1,6 +1,8 @@
 # CORS-problem-solving
 A step-by-step guide to solve CORS issues when loading Firebase Storage images in Flutter Web applications
 
+
+
 **Step 1**
 Open Google Cloud Console [Click here](https://console.cloud.google.com/welcome?_gl=1*1k3ttpn*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw_eLVBhBEEiwAeaYZfIW_6roEfZyucTVzlot4C-0q5-ve_AaT_XrxXEgCFfAjCumqXfcGURoCwtkQAvD_BwE&gclsrc=aw.ds&project=quran-academy-b27b5)
 
@@ -40,7 +42,16 @@ Then select Allow Cross-Origin Resource Sharing. An Add a configuration button w
 
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/be52261b4c2b67d3a927d728ef521c055ac79567/CORS%20problem%20solving/9.AddConfiguration.png)
 
+**Step 5**
 
- 
+In the configuration, enter `*` in the List of  **List of Allowed Origins** field. Under **Specify Methods**, select **HEAD** and **GET**. Leave the remaining fields empty, and click **Save**.
+
+ ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/c83e71298c9204eaade241f4b5e49e83416eb67e/CORS%20problem%20solving/10.Configuring.png)
+
+ Leave the remaining fields empty, and click **Save**. 
+ ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/c83e71298c9204eaade241f4b5e49e83416eb67e/CORS%20problem%20solving/11.balanceConfig.png)
+
+ After saving, you can see the changes here and in Your Project .
+
 
 
