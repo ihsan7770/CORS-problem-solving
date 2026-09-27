@@ -16,3 +16,5 @@ In the Google Cloud Console, you can see the project selection area. Click on it
 Select the project from here
 
 ![App Screenshot](https://github.com/ihsan7770/CORS-problem-solving/blob/66de92f5847e03756e05d6c2c52a947f683e8492/CORS%20problem%20solving/3.SelectProject.png)
+**Step 3** 
+The console will switch to the selected project. Go to the menu, select **Cloud Storage**, and then select **Buckets**.
